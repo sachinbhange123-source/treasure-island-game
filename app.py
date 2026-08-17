@@ -25,4 +25,4 @@ elif direction == "Left":
         elif door == "Blue":
             st.error("🐺 Eaten by beasts. Game Over!")
         elif door == "Yellow":
-            st.success("🎉 You found the treasure! You Win!")
+            st.success("🎉 You found the treasure! You Win...!")
